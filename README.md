@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Lianjfkt - Full-Stack Developer" width="100%"/>
+<img src="./banner.svg" alt="Lianjfkt - Full-Stack Developer" width="100%"/>
 
 <a href="https://github.com/Lianjfkt">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=Membangun+aplikasi+web+yang+benar-benar+dipakai;Sistem+manajemen+untuk+sekolah%2C+klub+%26+UMKM;JavaScript+%7C+TypeScript+%7C+HTML" alt="Typing SVG" />
