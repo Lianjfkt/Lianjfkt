@@ -16,7 +16,7 @@
 
 <br/>
 
-## `> whoami`
+## `> who am i?`
 
 ```bash
 $ cat about.txt
@@ -137,9 +137,9 @@ Saya membuat aplikasi web untuk kebutuhan operasional nyata: mulai dari mengelol
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF)](mailto:GANTI_DENGAN_EMAIL_KAMU)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF)](mailto:febriandyjalian@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/GANTI_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF2BD6)](https://instagram.com/GANTI_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF2BD6)](https://instagram.com/lianjf.kt)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=39FF14)](https://wa.me/GANTI_NOMOR)
 
 <br/>
